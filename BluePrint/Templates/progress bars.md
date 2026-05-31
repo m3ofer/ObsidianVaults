@@ -1,0 +1,10 @@
+<progress value="10" max="100"></progress>
+<progress value="20" max="100"></progress>
+<progress value="30" max="100"></progress>
+<progress value="40" max="100"></progress>
+<progress value="50" max="100"></progress>
+<progress value="60" max="100"></progress>
+<progress value="70" max="100"></progress>
+<progress value="80" max="100"></progress>
+<progress value="90" max="100"></progress>
+<progress value="100" max="100"></progress>
