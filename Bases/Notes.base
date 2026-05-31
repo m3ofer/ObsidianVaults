@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: NOTES
+    filters:
+      and:
+        - file.inFolder("Notes")
+    order:
+      - file.name
+      - tags
+      - file.ctime
+      - file.mtime
+    image: note.poster
+    imageFit: contain

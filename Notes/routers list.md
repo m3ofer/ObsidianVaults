@@ -1,0 +1,20 @@
+---
+tags:
+  - all
+  - notes
+poster: note (6).png
+---
+
+![[note (6).png|center|200]]
+
+<center>
+  <h1>
+    routers list
+  </h1>
+</center>
+<hr>
+
+> [!abstract] Abstract, Summary, Tldr
+> TP‑Link Archer Series (e.g., Archer A7 / C80 / AX50)
+ASUS RT‑Series (e.g., RT‑AC68U / RT‑AX55 / RT‑AX58U)
+Netgear Nighthawk (e.g., R6700 / R7000)
