@@ -1,1 +1,0 @@
-![[<%tp.file.title%>.jpg|center|200]]

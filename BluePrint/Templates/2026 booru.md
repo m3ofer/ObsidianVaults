@@ -1,1 +1,0 @@
-<span class="center-menu"> ![[2.gif|45]] &nbsp; ![[0.gif|45]] &nbsp; ![[2.gif|45]] &nbsp; ![[6.gif|45]]</span>
